@@ -6,5 +6,5 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
                 on Discord --> ChatDo#1211<br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-                or by Email --> nicolas.julie@epitech.eu or nicolas.julie38gmail.com<br>
+                or by Email --> nicolas.julie@epitech.eu or nicolas.julie38@gmail.com<br>
 **Most of my repos are private, contact me if you want to know a little more !** :v:
