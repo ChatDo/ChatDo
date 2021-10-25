@@ -6,3 +6,4 @@
         on Discord --> ChatDo#1211
         or by Email --> nicolas.julie@epitech.eu
                      nicolas.julie38gmail.com
+Most of my repos are private, contact me if you want to know a little more ! :D
