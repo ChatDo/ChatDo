@@ -23,7 +23,19 @@ Here are some ideas to get you started:
     A freelance developper from Reunion Island 🇷🇪
 </h3>
 
-- Hi, I’m @ChatDo
+---
+
+<br>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/nicolas-julie/">
+      <img style="height:50px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto: nicolas.julie@epitech.eu">
+      <img style="height:50px;" src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Mail Badge"/>
+  </div>
+
+---
+
 - 🎮 What i love to do is playing video games, learning about new tech and coding !
 - 👨‍🎓 I’m currently learning IT at EPITECH Réunion, i'm on my 2nd year actually
 - 🧑‍🤝‍🧑 I'd love to collaborate with you on Android app / Web / Cybersecurity or AI !
