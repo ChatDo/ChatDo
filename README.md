@@ -12,6 +12,8 @@
 
 <h2> Contact by :
 <br>
+<br>
+
 <!-- BADGES -->
 <div align="center" style="padding-top:10px;">
     <a href="https://www.linkedin.com/in/nicolas-julie/">
@@ -27,8 +29,6 @@
       <img style="height:50px;" src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </div>
 <!-- / BADGES -->
-
-#
 
   <!-- ABOUT ME -->
 <div>
