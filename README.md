@@ -30,6 +30,8 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/nicolas-julie/">
       <img style="height:50px;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="mailto: nicolas.julie38@gmail.com">
+      <img style="height:50px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     <a href="mailto: nicolas.julie@epitech.eu">
       <img style="height:50px;" src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Mail Badge"/>
   </div>
