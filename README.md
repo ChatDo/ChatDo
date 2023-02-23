@@ -4,11 +4,11 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=520&height=150&lines=Hey,+I'm+ChatDo+%E2%9C%8C;Nice+to+meet+you+;I'm+an+EPITECH+student;and+a+freelance+developper+!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=520&height=150&lines=Hey,+I'm+ChatDo+%E2%9C%8C;Nice+to+meet+you+;I'm+an+EPITECH+student;and+a+freelance+developer+!" alt="Typing SVG" />
     </a>
 </h1>
 
-<h2 align="center"> A freelance developper from Reunion Island.
+<h2 align="center"> A freelance developer from Reunion Island.
 
 <h2> Contact by :
 <br>
