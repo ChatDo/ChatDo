@@ -8,9 +8,9 @@
     </a>
 </h1>
 
-## A freelance developper from Reunion Island.
+<h2> A freelance developper from Reunion Island.
 
-## Contact by :
+<h2> Contact by :
 
 <!-- BADGES -->
 <div align="center" style="padding-top:10px;">
@@ -69,7 +69,6 @@
 <h2> DevOps :</h2>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
-
 <h2> Frameworks :</h2>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 
@@ -85,13 +84,10 @@
 </div>
   <!-- / ABOUT ME -->
 
-
 <br>
 <br>
 
 ## 📊 <ins>GitHub Stats :</ins>
-<br>
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=ChatDo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
@@ -119,6 +115,7 @@
 ## DonationBoard :
 
 
+---
 <!-- / PROJECTS -->
 
 <div align="center">
