@@ -8,14 +8,9 @@
     </a>
 </h1>
 
-<h2 align="center">
-    A freelance developper from Reunion Island.
-</h2>
+## A freelance developper from Reunion Island.
 
-<h2 align="center">
-  Contact by :
-</h2>
-
+## Contact by :
 
 <!-- BADGES -->
 <div align="center" style="padding-top:10px;">
@@ -39,18 +34,15 @@
 
 <div>
   <!-- ABOUT ME -->
-<h1 align="center" style="font-size: 40px;">
-<ins>About me :</ins>
-</h1>
+
+# <ins>About me :</ins>
   <!-- / ABOUT ME -->
 
----
 
 <div>
   <!-- ABOUT ME -->
-<h1 align="center" style="font-size: 40px;">
-<ins>What i can do :</ins>
-</h1>
+
+# <ins>What i can do :</ins>
 
 ## <ins>Languages and Tools :</ins>
 
@@ -108,26 +100,21 @@
 
 </div>
 
----
+#
 
 <div>
   <!-- PROJECTS -->
-<h1 align="center" style="font-size: 40px;">
-<ins>Projects i worked on :</ins>
-</h1>
+
+# <ins>Projects i worked on :</ins>
 
 ## MAIL API :
-
 
 
 ## TechBoard :
 
 
-
 ## DonationBoard :
 
-
----
 
 <!-- / PROJECTS -->
 
