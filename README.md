@@ -43,11 +43,7 @@
   <!-- ABOUT ME -->
 
 # <ins>What i can do :</ins>
-
-## <ins>Languages and Tools :</ins>
-
 <div align="center">
-
 <h2> Mobile application :</h2>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
@@ -92,19 +88,22 @@
 
 <br>
 <br>
-<br>
 
 ## 📊 <ins>GitHub Stats :</ins>
+<br>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ChatDo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChatDo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ChatDo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChatDo&theme=dark&hide_border=false)
+<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChatDo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br>
 
 </div>
-
-#
 
 <div>
   <!-- PROJECTS -->
