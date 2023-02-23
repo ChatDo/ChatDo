@@ -11,7 +11,7 @@
 <h2> A freelance developper from Reunion Island.
 
 <h2> Contact by :
-
+<br>
 <!-- BADGES -->
 <div align="center" style="padding-top:10px;">
     <a href="https://www.linkedin.com/in/nicolas-julie/">
