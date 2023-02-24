@@ -2,13 +2,14 @@
 **ChatDo/ChatDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">
+<h3 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=520&height=150&lines=Hey,+I'm+ChatDo+%E2%9C%8C;Nice+to+meet+you+;I'm+an+EPITECH+student;and+a+freelance+developer+!" alt="Typing SVG" />
     </a>
-</h1>
+</h3>
 
 <h3 align="center"> A freelance developer from Reunion Island.
+<br>
 <br>
 <!-- BADGES -->
 <div align="center" style="padding-top:10px;">
@@ -61,7 +62,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
 <h2> Frameworks :</h2>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://expressjs.com"> Express </a>
 
 <h2> Software :</h2>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
