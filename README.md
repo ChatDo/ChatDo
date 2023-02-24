@@ -8,12 +8,7 @@
     </a>
 </h1>
 
-<h2 align="center"> A freelance developer from Reunion Island.
-
-<h2> Contact by :
-<br>
-<br>
-
+<h3 align="center"> A freelance developer from Reunion Island.
 <!-- BADGES -->
 <div align="center" style="padding-top:10px;">
     <a href="https://www.linkedin.com/in/nicolas-julie/">
