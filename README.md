@@ -9,6 +9,7 @@
 </h1>
 
 <h3 align="center"> A freelance developer from Reunion Island.
+<br>
 <!-- BADGES -->
 <div align="center" style="padding-top:10px;">
     <a href="https://www.linkedin.com/in/nicolas-julie/">
